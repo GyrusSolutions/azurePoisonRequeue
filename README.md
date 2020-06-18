@@ -1,4 +1,4 @@
-# azurePoisonRequeue
+# Azure Poison Requeue
 A very simple PowerShell script to re-queue messages from -poison
 
 Don't forget to `Select-AzSubscription` before runnint the script.
